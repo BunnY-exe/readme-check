@@ -100,13 +100,13 @@ Extend the EmotionAI logic in the pages/ folder
 
 ## 🔎 Useful Commands
 
-# Add new dependency
+#### Add new dependency
 pnpm add <package-name>
 
-# Start preview/dev
+#### Start preview/dev
 pnpm run dev
 
-# Build
+#### Build
 pnpm run build
 
 ## 📝 Notes
