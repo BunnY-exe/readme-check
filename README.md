@@ -37,7 +37,7 @@ A modern React + TypeScript + shadcn-ui template designed for building an **Emot
 
 ## 🚀 Quick Start
 
-```bash
+
 # Install dependencies
 pnpm i
 
